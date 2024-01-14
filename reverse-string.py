@@ -1,3 +1,4 @@
+#1.Write a function to reverse a given string without using any built-in reversal functions.
 #define a function reversestring
 def reversestring(x):
     #assigning a new variable to the empty string 
